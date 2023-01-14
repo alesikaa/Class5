@@ -1,0 +1,15 @@
+ Scanner class:
+Helps use to take the input from keyboard.
+Logical Operators:
+   Just another set of symbols that we can use to combine multiple boolean values.
+   There are logical operators ! || &&
+Not Operators:
+     (!) like ex. (!true) -is changing in False
+
+
+What is the Syntax:
+       they only work boolean data type
+       if(! condition) it reverses
+       if(condition1 || condition2)
+       if (conditions1 && condition2)
+
